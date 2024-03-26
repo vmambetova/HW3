@@ -1,2 +1,7 @@
-# HW3
-Hack my career Software system testing HW3 Vita Mambetova and Evelina Budrikaite
+selenium-heroku-framework
+---
+
+****************************************************************************************
+---
+A sample framework based on Page Object Model, Selenium, TestNG using Java.
+
